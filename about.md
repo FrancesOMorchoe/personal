@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is *Frances*. My surname is **O'Morchoe**.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Me
+- About
+- Anything
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+1. Here
+2. Lies
 
+Go to a website, click 'share', copy the 'embed' code in here
 
-[jekyll-organization]: https://github.com/jekyll
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YouV5z1v6YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
